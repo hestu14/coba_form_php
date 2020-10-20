@@ -1,0 +1,14 @@
+.form-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10vw;
+}
+
+.first-form {
+    width: 500px;
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+}
